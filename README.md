@@ -17,9 +17,14 @@ Here are some ideas to get you started:
 -->
 
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-
+<br>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=momnpa333&show_icons=true&theme=radical)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=momnpa333)](https://solved.ac/momnpa333)<br/>
-
+<br>
+<br>
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=momnpa333)<br/>
+<br>
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momnpa333&langs_count=8)](https://github.com/momnpa333/github-readme-stats)
