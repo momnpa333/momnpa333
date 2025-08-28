@@ -5,8 +5,7 @@
 데이터 무결성과 성능을 동시에 고려하는 백엔드 엔지니어입니다. Java/Spring Boot, Redis, MySQL을 중심으로 **동시성 제어(분산락), 캐싱/레이트리밋, 대용량 트래픽 성능 테스트(nGrinder)**, **CI/CD 자동화(GitHub Actions, Docker)** 경험이 있습니다.
 
 
-
-### 📮 **제가 궁금하시다면**
+### 📮 About Me
 
 - Email: `momnpa333@gmail.com`
 - [이력서](https://velog.io/@momnpa333/about)
@@ -23,28 +22,21 @@
 ### 🎓 Experiences
 
 * 경북대학교(Kyungbook Nat’l Univ.) / Dept. of Computer Science Engineering (2019.03 - 2025.02)
-* **카카오 테크 캠퍼스**: 6개월 집중 과정, 대규모 서비스 아키텍처 및 협업 경험, 최우수상 수상 (2024.04 - 2024.11)
+* [**카카오 테크 캠퍼스**](https://www.kakaotechcampus.com/) (2024.04 - 2024.11)
+
 
 ### 🏅 Awards
 
-* **카카오 테크 캠퍼스 최우수상** 
-* **대경권 산학 프로젝트 경진대회 최우수상**
-* **대구 SW 해커톤 대상**
-* 
+* **카카오 테크 캠퍼스 최우수상** (2024.11)
+* **SEEK Square 2024 우수상** (2024.11)
+* **대경권 산학 프로젝트 경진대회 최우수상** (2023.12)
+* **2022 대구를 빛내는 SW 해커톤 대상** (2022.10)
 
-### 🚀 Projects
+### 🪪 Certificates
+* SQLD (2024.04)
+* PCCP Lv3(코딩전문역량인증) (2025.03)
 
-#### 1) **WHOKIE** — 피드백 기반 소셜 플랫폼
-
-* **역할**: 백엔드 총괄 (ERD, API 설계, 성능 최적화, 배포 자동화)
-* **스택**: Spring Boot, MySQL, Redis, Docker, AWS, NGINX
-* **성과**:
-
-  * Redis INCR로 고빈도 조회수 처리 및 TTL 기반 데이터 관리
-  * Redisson 분산락으로 동시성 이슈 해결
-  * CloudFront+NGINX 캐싱으로 응답 지연 감소
-  * GitHub Actions 기반 CI/CD 자동화
-
+### Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=momnpa333&show_icons=true&theme=radical)
 
