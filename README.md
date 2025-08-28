@@ -1,4 +1,4 @@
-# 🙋🏻 Backend Engineer — 권다운 (Dawoo Kwon)
+# 🙋🏻 Backend Engineer — 권다운 (Dawoon Kwon)
 
 ### 👋 소개
 
