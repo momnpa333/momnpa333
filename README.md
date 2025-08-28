@@ -1,9 +1,15 @@
 # 🙋🏻 Backend Engineer — 권다운 (Dawoon Kwon)
 
 ### 👋 소개
-
-데이터 무결성과 성능을 동시에 고려하는 백엔드 엔지니어입니다. Java/Spring Boot, Redis, MySQL을 중심으로 **동시성 제어(분산락), 캐싱/레이트리밋, 대용량 트래픽 성능 테스트(nGrinder)**, **CI/CD 자동화(GitHub Actions, Docker)** 경험이 있습니다.
-
+🌝 사용자의 불편을 줄이고, 신뢰를 쌓아가는 개발자를 꿈꿉니다.
+<br>
+🌝 비개발자와도 편하게 이야기하며, 상대의 말을 정확히 이해하는 협업을 소중하게 생각합니다.
+<br>
+🌝 알고리즘 문제를 풀면서 새로운 시각을 얻는 걸 즐깁니다.
+<br>
+🌝 바둑, 볼링, 당구처럼 두뇌와 집중력이 필요한 취미도 좋아합니다.
+<br>
+🌝 언젠가는 전 세계 사람들이 함께 사용하는 서비스를 만들어내는 것을 꿈꾸고 있습니다.
 
 ### 📮 About Me
 
@@ -13,11 +19,10 @@
 
 ### 🔧 Tech Stack
 
-* **Backend**: Java 17, Spring Boot 3, JPA/Hibernate, REST API 설계
-* **Database**: MySQL(쿼리 최적화, 인덱스 설계), Redis(캐시, 카운팅, 분산락)
-* **Infra/DevOps**: Docker, GitHub Actions, AWS(S3, CloudFront, ELB), NGINX
-* **성능/운영**: nGrinder 부하 테스트, CloudFront 캐싱, 로그 모니터링
-* **협업**: OpenAPI/Swagger 기반 API 문서화, React 협업 경험
+* **Backend**: Java, Spring Boot, JPA
+* **Database**: MySQL, Redis
+* **Infra/DevOps**: Docker, GitHub Actions, AWS(S3, CloudFront, ELB), NGINX, Ngrinder
+* **Frontend** : HTML, CSS, JavaScript, React.js
 
 ### 🎓 Experiences
 
