@@ -12,8 +12,8 @@
 ### 📮 About Me
 
 - Email: [momnpa333@gmail.com](mailto:momnpa333@gmail.com)
-- 이력서: [링크](https://velog.io/@momnpa333/about)
-- 포트폴리오: 
+- 이력서: [링크](https://drive.google.com/file/d/1-G31XCg2eEsvNyKQ5uWgToxk4mHgyHs1/view?usp=drive_link)
+- 포트폴리오: [링크](https://velog.io/@momnpa333/about)
 
 ### 🔧 Tech Stack
 
